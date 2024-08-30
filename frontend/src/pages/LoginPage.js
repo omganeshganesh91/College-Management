@@ -74,7 +74,7 @@ const LoginPage = ({ role }) => {
     };
 
     const guestModeHandler = () => {
-        const password = "zxc"
+        const password = "123"
 
         if (role === "Admin") {
             const email = "yogendra@12"
